@@ -4,13 +4,13 @@ Clássico jogo da cobrinha
 
 ## 🌐 Deploy
 
-<a href="https://fagioni-snake-game.netlify.app/" > Link do deploy </a>
+<a href="https://fagioni-snake-game.netlify.app/" >link: https://fagioni-snake-game.netlify.app/ </a>
 
 ## 🛠️ Construído com
 
-* - HTML
-* - CSS
-* - JS
+*  HTML
+*  CSS
+*  JS
 
 ## ✒️ Autor
 
@@ -22,7 +22,7 @@ Clássico jogo da cobrinha
 
 ## 📄 Licença
 
-Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/DevLuanFagioni/Snake-game/blob/main/license) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
