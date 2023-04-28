@@ -1,10 +1,10 @@
-# Jogo da Cobrinha
+# 🐍 Jogo da Cobrinha
 
 Clássico jogo da cobrinha
 
 ## 🌐 Deploy
 
-<a href="https://fagioni-snake-game.netlify.app/" >link: https://fagioni-snake-game.netlify.app/ </a>
+*  https://fagioni-snake-game.netlify.app/
 
 ## 🛠️ Construído com
 
